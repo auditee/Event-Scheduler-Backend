@@ -43,7 +43,4 @@ python app.py
 - requirements.txt – Dependencies
 - postman_collection.json – Ready for Postman import
 
-## Deployment (Optional)
-Use Render (https://render.com), Replit (https://replit.com), or PythonAnywhere (https://pythonanywhere.com) for free hosting.
 
-Contact: Ankit Agarwal – +91-8800254925
